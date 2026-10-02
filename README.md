@@ -78,8 +78,10 @@ Banco de Dados           ████████████░░░░
 ## Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas-Narita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Narita&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://raw.githubusercontent.com/Lucas-Narita/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img height="170" src="https://raw.githubusercontent.com/Lucas-Narita/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img height="170" src="https://raw.githubusercontent.com/Lucas-Narita/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  <img height="170" src="https://raw.githubusercontent.com/Lucas-Narita/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </div>
 
 <div align="center">
